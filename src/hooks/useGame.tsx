@@ -108,7 +108,7 @@ const useGame = () => {
   const moveToNextQuestion = () => {
     setGame((prev) => ({
       ...prev,
-      number: game.number++,
+      number: prev.number + 1,
     }));
   };
 

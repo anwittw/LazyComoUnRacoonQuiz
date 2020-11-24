@@ -21,8 +21,6 @@ function App() {
     <>
       <GlobalStyle />
       <Wrapper>
-        {/* <pre>{JSON.stringify(gameOptions)}</pre>
-        <pre>{JSON.stringify(game)}</pre> */}
         {isGameOver && userAnswers.length === 0 && (
           <PrepareGameCard callbacks={optionSetter} gameOptions={gameOptions} />
         )}
