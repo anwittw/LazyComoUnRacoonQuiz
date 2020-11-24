@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/lazycomounracoonquiz/static/js/main.d4ea9a94.chunk.js",
+    "main.js.map": "/lazycomounracoonquiz/static/js/main.d4ea9a94.chunk.js.map",
+    "runtime-main.js": "/lazycomounracoonquiz/static/js/runtime-main.07fa050a.js",
+    "runtime-main.js.map": "/lazycomounracoonquiz/static/js/runtime-main.07fa050a.js.map",
+    "static/js/2.f02f4f94.chunk.js": "/lazycomounracoonquiz/static/js/2.f02f4f94.chunk.js",
+    "static/js/2.f02f4f94.chunk.js.map": "/lazycomounracoonquiz/static/js/2.f02f4f94.chunk.js.map",
+    "index.html": "/lazycomounracoonquiz/index.html",
+    "static/js/2.f02f4f94.chunk.js.LICENSE.txt": "/lazycomounracoonquiz/static/js/2.f02f4f94.chunk.js.LICENSE.txt",
+    "static/media/background.7fb5126b.jpg": "/lazycomounracoonquiz/static/media/background.7fb5126b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07fa050a.js",
+    "static/js/2.f02f4f94.chunk.js",
+    "static/js/main.d4ea9a94.chunk.js"
+  ]
+}
