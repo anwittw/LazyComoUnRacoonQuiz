@@ -39,7 +39,7 @@ export const fetchQuizQuestions = async (
   difficulty: Difficulty | undefined,
   category?: Category | undefined
 ) => {
-  const endPoint = `http://opentdb.com/api.php?amount=${amount}&difficulty=${difficulty}&type=multiple${
+  const endPoint = `https://opentdb.com/api.php?amount=${amount}&difficulty=${difficulty}&type=multiple${
     category ? "&category=" + category : ""
   }`;
   try {
